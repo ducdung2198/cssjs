@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://tndvina.com/lap-dat-camera-quan-sat.html' target='_blank'><img src='https://lh3.googleusercontent.com/Rsvey5P2QGFmm1bYvdkpDi7fKulu40JGgYl2eTNKArKTgRvPxQNWRv9Ja636yDOzg7JiWqlP-A=w1366-h768-no' width='500px'/>Lắp đặt camera quan sát</a>. Dịch vụ uy tín . <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://tndvina.com/lap-dat-camera-quan-sat.html' target='_blank'><img src='http://tndvina.com/wp-content/uploads/2015/06/lap-dat-camera-quan-sat-gia-re.jpg' width='500px'/>Lắp đặt camera quan sát</a>. Dịch vụ uy tín . <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
